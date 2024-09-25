@@ -19,4 +19,9 @@ Here I post my leetcode solution
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ahana12eng/My-Leetcode/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/ahana12eng/My-Leetcode/tree/master/0066-plus-one) |
+## Array
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/ahana12eng/My-Leetcode/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
