@@ -8,6 +8,7 @@ Here I post my leetcode solution
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ahana12eng/My-Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0392-is-subsequence](https://github.com/ahana12eng/My-Leetcode/tree/master/0392-is-subsequence) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/ahana12eng/My-Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## String
 |  |
 | ------- |
@@ -51,6 +52,7 @@ Here I post my leetcode solution
 | ------- |
 | [0002-add-two-numbers](https://github.com/ahana12eng/My-Leetcode/tree/master/0002-add-two-numbers) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ahana12eng/My-Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/ahana12eng/My-Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
