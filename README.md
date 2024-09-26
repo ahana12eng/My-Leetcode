@@ -7,6 +7,7 @@ Here I post my leetcode solution
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ahana12eng/My-Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0141-linked-list-cycle](https://github.com/ahana12eng/My-Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ahana12eng/My-Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0392-is-subsequence](https://github.com/ahana12eng/My-Leetcode/tree/master/0392-is-subsequence) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/ahana12eng/My-Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -36,6 +37,7 @@ Here I post my leetcode solution
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ahana12eng/My-Leetcode/tree/master/0001-two-sum) |
+| [0141-linked-list-cycle](https://github.com/ahana12eng/My-Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ahana12eng/My-Leetcode/tree/master/0142-linked-list-cycle-ii) |
 ## Binary Search
 |  |
@@ -53,6 +55,7 @@ Here I post my leetcode solution
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ahana12eng/My-Leetcode/tree/master/0002-add-two-numbers) |
+| [0141-linked-list-cycle](https://github.com/ahana12eng/My-Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ahana12eng/My-Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ahana12eng/My-Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/ahana12eng/My-Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
