@@ -23,5 +23,10 @@ Here I post my leetcode solution
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ahana12eng/My-Leetcode/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/ahana12eng/My-Leetcode/tree/master/0066-plus-one) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/ahana12eng/My-Leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
