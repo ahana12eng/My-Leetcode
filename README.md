@@ -55,6 +55,7 @@ Here I post my leetcode solution
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ahana12eng/My-Leetcode/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/ahana12eng/My-Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/ahana12eng/My-Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ahana12eng/My-Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/ahana12eng/My-Leetcode/tree/master/0206-reverse-linked-list) |
@@ -65,5 +66,6 @@ Here I post my leetcode solution
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ahana12eng/My-Leetcode/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/ahana12eng/My-Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/ahana12eng/My-Leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
