@@ -7,14 +7,17 @@ Here I post my leetcode solution
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ahana12eng/My-Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0392-is-subsequence](https://github.com/ahana12eng/My-Leetcode/tree/master/0392-is-subsequence) |
 ## String
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ahana12eng/My-Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0392-is-subsequence](https://github.com/ahana12eng/My-Leetcode/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ahana12eng/My-Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0392-is-subsequence](https://github.com/ahana12eng/My-Leetcode/tree/master/0392-is-subsequence) |
 ## Math
 |  |
 | ------- |
