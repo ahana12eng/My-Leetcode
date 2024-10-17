@@ -20,6 +20,7 @@ Here I post my leetcode solution
 | [0005-longest-palindromic-substring](https://github.com/ahana12eng/My-Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/ahana12eng/My-Leetcode/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/ahana12eng/My-Leetcode/tree/master/0058-length-of-last-word) |
+| [0290-word-pattern](https://github.com/ahana12eng/My-Leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/ahana12eng/My-Leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/ahana12eng/My-Leetcode/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
@@ -50,6 +51,7 @@ Here I post my leetcode solution
 | [0003-longest-substring-without-repeating-characters](https://github.com/ahana12eng/My-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/ahana12eng/My-Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ahana12eng/My-Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0290-word-pattern](https://github.com/ahana12eng/My-Leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/ahana12eng/My-Leetcode/tree/master/0383-ransom-note) |
 ## Binary Search
 |  |
