@@ -31,6 +31,7 @@ Here I post my leetcode solution
 | [0002-add-two-numbers](https://github.com/ahana12eng/My-Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/ahana12eng/My-Leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/ahana12eng/My-Leetcode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/ahana12eng/My-Leetcode/tree/master/0069-sqrtx) |
 ## Array
 |  |
 | ------- |
@@ -49,6 +50,7 @@ Here I post my leetcode solution
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/ahana12eng/My-Leetcode/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/ahana12eng/My-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 ## Sliding Window
 |  |
