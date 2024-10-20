@@ -45,6 +45,7 @@ Here I post my leetcode solution
 | [0209-minimum-size-subarray-sum](https://github.com/ahana12eng/My-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ahana12eng/My-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0455-assign-cookies](https://github.com/ahana12eng/My-Leetcode/tree/master/0455-assign-cookies) |
+| [1046-max-consecutive-ones-iii](https://github.com/ahana12eng/My-Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -60,15 +61,18 @@ Here I post my leetcode solution
 | [0069-sqrtx](https://github.com/ahana12eng/My-Leetcode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ahana12eng/My-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/ahana12eng/My-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [1046-max-consecutive-ones-iii](https://github.com/ahana12eng/My-Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ahana12eng/My-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/ahana12eng/My-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [1046-max-consecutive-ones-iii](https://github.com/ahana12eng/My-Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ahana12eng/My-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [1046-max-consecutive-ones-iii](https://github.com/ahana12eng/My-Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 ## Linked List
 |  |
 | ------- |
