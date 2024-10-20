@@ -45,6 +45,7 @@ Here I post my leetcode solution
 | [0169-majority-element](https://github.com/ahana12eng/My-Leetcode/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/ahana12eng/My-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ahana12eng/My-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/ahana12eng/My-Leetcode/tree/master/0229-majority-element-ii) |
 | [0455-assign-cookies](https://github.com/ahana12eng/My-Leetcode/tree/master/0455-assign-cookies) |
 | [1046-max-consecutive-ones-iii](https://github.com/ahana12eng/My-Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 ## Hash Table
@@ -55,6 +56,7 @@ Here I post my leetcode solution
 | [0141-linked-list-cycle](https://github.com/ahana12eng/My-Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ahana12eng/My-Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/ahana12eng/My-Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/ahana12eng/My-Leetcode/tree/master/0229-majority-element-ii) |
 | [0290-word-pattern](https://github.com/ahana12eng/My-Leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/ahana12eng/My-Leetcode/tree/master/0383-ransom-note) |
 ## Binary Search
@@ -102,6 +104,7 @@ Here I post my leetcode solution
 | ------- |
 | [0169-majority-element](https://github.com/ahana12eng/My-Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ahana12eng/My-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/ahana12eng/My-Leetcode/tree/master/0229-majority-element-ii) |
 | [0455-assign-cookies](https://github.com/ahana12eng/My-Leetcode/tree/master/0455-assign-cookies) |
 ## Trie
 |  |
@@ -124,5 +127,6 @@ Here I post my leetcode solution
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ahana12eng/My-Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/ahana12eng/My-Leetcode/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/ahana12eng/My-Leetcode/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
