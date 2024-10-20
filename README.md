@@ -42,6 +42,7 @@ Here I post my leetcode solution
 | [0001-two-sum](https://github.com/ahana12eng/My-Leetcode/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/ahana12eng/My-Leetcode/tree/master/0066-plus-one) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ahana12eng/My-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/ahana12eng/My-Leetcode/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/ahana12eng/My-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ahana12eng/My-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0455-assign-cookies](https://github.com/ahana12eng/My-Leetcode/tree/master/0455-assign-cookies) |
@@ -53,6 +54,7 @@ Here I post my leetcode solution
 | [0003-longest-substring-without-repeating-characters](https://github.com/ahana12eng/My-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/ahana12eng/My-Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ahana12eng/My-Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/ahana12eng/My-Leetcode/tree/master/0169-majority-element) |
 | [0290-word-pattern](https://github.com/ahana12eng/My-Leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/ahana12eng/My-Leetcode/tree/master/0383-ransom-note) |
 ## Binary Search
@@ -98,6 +100,7 @@ Here I post my leetcode solution
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ahana12eng/My-Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ahana12eng/My-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0455-assign-cookies](https://github.com/ahana12eng/My-Leetcode/tree/master/0455-assign-cookies) |
 ## Trie
@@ -107,6 +110,7 @@ Here I post my leetcode solution
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ahana12eng/My-Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ahana12eng/My-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -119,5 +123,6 @@ Here I post my leetcode solution
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ahana12eng/My-Leetcode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/ahana12eng/My-Leetcode/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
