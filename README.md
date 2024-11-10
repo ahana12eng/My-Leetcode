@@ -7,6 +7,7 @@ Here I post my leetcode solution
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ahana12eng/My-Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0075-sort-colors](https://github.com/ahana12eng/My-Leetcode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/ahana12eng/My-Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ahana12eng/My-Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ahana12eng/My-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -41,6 +42,7 @@ Here I post my leetcode solution
 | ------- |
 | [0001-two-sum](https://github.com/ahana12eng/My-Leetcode/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/ahana12eng/My-Leetcode/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/ahana12eng/My-Leetcode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ahana12eng/My-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/ahana12eng/My-Leetcode/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/ahana12eng/My-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -102,6 +104,7 @@ Here I post my leetcode solution
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/ahana12eng/My-Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/ahana12eng/My-Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ahana12eng/My-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/ahana12eng/My-Leetcode/tree/master/0229-majority-element-ii) |
