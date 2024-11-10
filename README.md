@@ -28,6 +28,7 @@ Here I post my leetcode solution
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ahana12eng/My-Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/ahana12eng/My-Leetcode/tree/master/0053-maximum-subarray) |
 | [0392-is-subsequence](https://github.com/ahana12eng/My-Leetcode/tree/master/0392-is-subsequence) |
 ## Math
 |  |
@@ -41,6 +42,7 @@ Here I post my leetcode solution
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ahana12eng/My-Leetcode/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/ahana12eng/My-Leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/ahana12eng/My-Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/ahana12eng/My-Leetcode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ahana12eng/My-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -116,6 +118,7 @@ Here I post my leetcode solution
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/ahana12eng/My-Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/ahana12eng/My-Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ahana12eng/My-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
