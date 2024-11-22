@@ -24,6 +24,7 @@ Here I post my leetcode solution
 | [0290-word-pattern](https://github.com/ahana12eng/My-Leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/ahana12eng/My-Leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/ahana12eng/My-Leetcode/tree/master/0392-is-subsequence) |
+| [0686-repeated-string-match](https://github.com/ahana12eng/My-Leetcode/tree/master/0686-repeated-string-match) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -135,4 +136,8 @@ Here I post my leetcode solution
 | [0169-majority-element](https://github.com/ahana12eng/My-Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ahana12eng/My-Leetcode/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/ahana12eng/My-Leetcode/tree/master/0383-ransom-note) |
+## String Matching
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/ahana12eng/My-Leetcode/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
