@@ -46,6 +46,7 @@ Here I post my leetcode solution
 | [0053-maximum-subarray](https://github.com/ahana12eng/My-Leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/ahana12eng/My-Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/ahana12eng/My-Leetcode/tree/master/0075-sort-colors) |
+| [0136-single-number](https://github.com/ahana12eng/My-Leetcode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ahana12eng/My-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/ahana12eng/My-Leetcode/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/ahana12eng/My-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -140,4 +141,8 @@ Here I post my leetcode solution
 |  |
 | ------- |
 | [0686-repeated-string-match](https://github.com/ahana12eng/My-Leetcode/tree/master/0686-repeated-string-match) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/ahana12eng/My-Leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
